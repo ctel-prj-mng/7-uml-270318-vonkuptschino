@@ -2,7 +2,7 @@
 
 ## Диаграмма прецедентов
 
-![UCD](/Use case diagram.png)
+![UCD](Use case diagram.png)
 
 ## Диаграмма последовательности
 
